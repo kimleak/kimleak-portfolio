@@ -86,7 +86,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">🙋‍♂️ About Me</h2>
           <p className="text-slate-300 text-lg">
-            I&apos;m Kim Leak — a frontend developer who thrives on building sleek, scalable, and accessible web applications.
+          I&apos;m Kim Leak — a frontend developer who thrives on building sleek, scalable, and accessible web applications.
             I work mainly with React, Next.js, and Tailwind CSS.
             With a strong focus on performance and user experience, I enjoy turning ideas into real, polished products.
           </p>

@@ -4,8 +4,6 @@ import { FC, useState } from 'react';
 import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
 import { usePathname } from 'next/navigation';
-import { useTheme } from "next-themes";
-import { FaMoon, FaSun } from "react-icons/fa";
 import DarkModeToggle from './DarkModeToggle';
 
 const Navbar: FC = () => {
