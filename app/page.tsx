@@ -92,7 +92,7 @@ export default function Home() {
           </p>
           <p className="text-lg text-slate-400">
             My toolkit includes <span className="text-white font-semibold">React</span>, <span className="text-white font-semibold">Next.js</span>, <span className="text-white font-semibold">Tailwind CSS</span>, and <span className="text-white font-semibold">Framer Motion</span>.
-            I'm currently exploring the world of UI animations, accessibility-first design, and AI-powered tooling.
+            I am currently exploring the world of UI animations, accessibility-first design, and AI-powered tooling.
           </p>
         </div>
         <div className="mt-10 grid grid-cols-2 sm:grid-cols-3 gap-4 text-center">
@@ -111,7 +111,7 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-24 px-6">
         <div className="text-center max-w-xl mx-auto">
-          <h2 className="text-4xl font-bold mb-4">📫 Let's Connect</h2>
+          <h2 className="text-4xl font-bold mb-4">📫 Let&apos;s Connect</h2>
           <p className="text-slate-300 mb-6">Reach out for collaborations or just say hello 👇</p>
           <div className="flex flex-wrap justify-center gap-4 mt-6">
             <a
