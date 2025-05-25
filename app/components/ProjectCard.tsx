@@ -33,7 +33,7 @@ const ProjectCard: FC<ProjectCardProps> = ({
         duration: 0.6,
         delay: index * 0.2 // Stagger the animations based on index
       }}
-      className="group relative flex flex-col overflow-hidden rounded-lg border border-gray-200 bg-white shadow-md transition-all hover:shadow-lg dark:border-gray-700 dark:bg-gray-800"
+      className="group relative flex flex-col overflow-hidden rounded-lg border border-gray-200 bg-white shadow-md transition-transform hover:scale-[1.01] hover:shadow-lg dark:border-gray-700 dark:bg-gray-800"
     >
       {imageUrl && (
         <motion.div 
